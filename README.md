@@ -1,4 +1,4 @@
-# 🏄‍♂️ James Wilkins
+#  James Wilkins
 
 **`Cloud Craftsman (AWS Enthusiast/PC Technician)`**
 
