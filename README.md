@@ -1,5 +1,23 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/joshmadakor1">PC Technician</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Computing Enthusiast</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+# 🏄‍♂️ James Wilkins
 
+**`Cloud Craftsman (AWS Enthusiast/PC Technician)`**
+
+I'm a PC Technician and AWS Practitioner building my, Cloud, skillset one step at a time. Great DevOps/Engineers are built from the ground up, from years of learning, growing, and dedication. My journy starts with solving real-life problems with creative cloud solutions, one project at a time.
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+
+#
+
+---
 <h2>👨‍💻 AWS Projects:</h2>
 
 - <b>Cloud Resume Challenge</b>
