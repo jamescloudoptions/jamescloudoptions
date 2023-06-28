@@ -2,7 +2,7 @@
 
 **`Cloud Craftsman (AWS Enthusiast/PC Technician)`**
 
-I'm a PC Technician and AWS Practitioner building my, Cloud, skillset one step at a time. Great DevOps/Engineers are built from the ground up, from years of learning, growing, and dedication. My journy starts with solving real-life problems with creative cloud solutions, one project at a time.
+As a PC Technician and AWS Practitioner, I am diligently working on expanding my skillset in the realm of Cloud computing. I firmly believe that exceptional DevOps/Engineers are nurtured through continuous learning, personal growth, and unwavering dedication. My journey begins by actively tackling real-life challenges and employing innovative cloud-based solutions, project by project.
 
 ### 🧰 Languages and Tools
 
