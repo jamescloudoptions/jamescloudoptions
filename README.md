@@ -4,7 +4,7 @@
 
 As a PC Technician and AWS Practitioner, I am diligently working on expanding my skillset in the realm of Cloud computing. I firmly believe that exceptional DevOps/Engineers are nurtured through continuous learning, personal growth, and unwavering dedication. My journey begins by actively tackling real-life challenges and employing innovative cloud-based solutions, project by project.
 
-### 🧰 Languages and Tools
+### 🧰 Technology
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
