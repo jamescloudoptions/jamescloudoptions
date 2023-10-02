@@ -2,7 +2,7 @@
 
 **`Cloud Craftsman (AWS Enthusiast/PC Technician)`**
 
-As a PC Technician and AWS Practitioner, I am diligently working on expanding my skillset in the realm of Cloud computing. I firmly believe that exceptional DevOps/Engineers are nurtured through continuous learning, personal growth, and unwavering dedication. My journey begins by actively tackling real-life challenges and employing innovative cloud-based solutions, project by project.
+As an IT Support Specialist and AWS Practitioner, I am diligently working on expanding my skillset in the realm of Cloud computing. I firmly believe that exceptional DevOps/Engineers are nurtured through continuous learning, personal growth, and unwavering dedication. My journey begins by actively tackling real-life challenges and employing innovative cloud-based solutions, project by project.
 
 ### 🧰 Technology
 
